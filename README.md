@@ -5,24 +5,28 @@
 
 # Reconstruction Results on NHR dataset
 
-<video id="ret1">
-      <source id="ret1" src="https://raw.githubusercontent.com/l1346792580123/PatchShading/main/fig/ret1.mp4" type="video/mp4">
-</videos>
 
-<video id="ret2">
-      <source id="ret2" src="https://raw.githubusercontent.com/l1346792580123/PatchShading/main/fig/ret2.mp4" type="video/mp4">
-</videos>
+https://user-images.githubusercontent.com/25956606/203795898-6b40fb93-7873-4d4f-b93d-66b51fa0cfe9.mp4
 
-<video id="ret3">
-      <source id="ret3" src="https://raw.githubusercontent.com/l1346792580123/PatchShading/main/fig/ret3.mp4" type="video/mp4">
-</videos>
 
-<video id="ret4">
-      <source id="ret4" src="https://raw.githubusercontent.com/l1346792580123/PatchShading/main/fig/ret4.mp4" type="video/mp4">
-</videos>
+https://user-images.githubusercontent.com/25956606/203795977-98f697ec-96bc-46e5-a40c-7f6eff6d00ec.mp4
+
+
+
+https://user-images.githubusercontent.com/25956606/203796001-7b143df8-02ea-47a4-988b-eaf3d0382e19.mp4
+
+
+
+
+https://user-images.githubusercontent.com/25956606/203796021-b0a99641-df83-4fef-ab84-3ef259ff4052.mp4
+
+
+
 
 # Reconstruction Results on in the wild video
 
-<video id="wild">
-      <source id="wild" src="https://raw.githubusercontent.com/l1346792580123/PatchShading/main/fig/wild.mp4" type="video/mp4">
-</videos>
+
+
+
+https://user-images.githubusercontent.com/25956606/203796037-a64faa77-a84b-497c-b2d3-9f65a748abfc.mp4
+

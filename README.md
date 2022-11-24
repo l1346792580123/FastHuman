@@ -1,7 +1,7 @@
 # PatchShading
 
 # Framework
-![framework](https://github.com/l1346792580123/PatchShading/blob/main/fig/overview.pdf)
+![framework](https://github.com/l1346792580123/PatchShading/blob/main/fig/overview.png)
 
 # Reconstruction Results on NHR dataset
 

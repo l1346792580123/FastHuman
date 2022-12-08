@@ -1,4 +1,4 @@
-# PatchShading
+# [PatchShading: High-Quality Human Reconstruction by Patch Warping and Shading Refinement](https://arxiv.org/abs/2211.14485)
 
 # Framework
 ![framework](https://github.com/l1346792580123/PatchShading/blob/main/fig/overview.png)
@@ -29,4 +29,9 @@ https://user-images.githubusercontent.com/25956606/203796021-b0a99641-df83-4fef-
 
 
 https://user-images.githubusercontent.com/25956606/203796037-a64faa77-a84b-497c-b2d3-9f65a748abfc.mp4
+
+
+# Related Works
+
+[Multiview Textured Mesh Recovery by Differentiable Rendering](https://github.com/l1346792580123/diff)
 

@@ -9,6 +9,7 @@
 [nvdiffrast](https://github.com/NVlabs/nvdiffrast)
 
 [NHR data](https://wuminye.github.io/NHR/datasets.html)
+
 [DTU data](https://hkustconnect-my.sharepoint.com/:u:/g/personal/jzhangbs_connect_ust_hk/EazyGuwPC5tIkbI3fgeERgEBBUXBV16_hIkud_dhS34wVw?e=CWjJGP)
 
 # Reconstruction Results of [NHR dataset](https://wuminye.github.io/NHR/)
@@ -40,7 +41,14 @@ https://user-images.githubusercontent.com/25956606/203796037-a64faa77-a84b-497c-
 
 
 ## Citation
-
+```
+@inproceedings{fasthuman,
+  author={Lin, Lixiang, Peng Songyou, Gan Qijun and Zhu, Jianke},
+  booktitle={International Conference on 3D Vision, 3DV}, 
+  title={FastHuman: Reconstructing High-Quality Clothed Human in Minutes}, 
+  year={2024},
+  }
+```
 
 # Related Works
 

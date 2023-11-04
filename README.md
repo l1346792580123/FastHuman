@@ -30,8 +30,19 @@ pip install .
 
 ## Data Preparation
 
-You can download NHR data and DTU data from NHR(https://wuminye.github.io/NHR/datasets.html) and DTU(https://hkustconnect-my.sharepoint.com/:u:/g/personal/jzhangbs_connect_ust_hk/EazyGuwPC5tIkbI3fgeERgEBBUXBV16_hIkud_dhS34wVw?e=CWjJGP) respectively.
+You can download NHR data and DTU data from [NHR](https://wuminye.github.io/NHR/datasets.html) and [DTU](https://hkustconnect-my.sharepoint.com/:u:/g/personal/jzhangbs_connect_ust_hk/EazyGuwPC5tIkbI3fgeERgEBBUXBV16_hIkud_dhS34wVw?e=CWjJGP) respectively.
 
+## Run
+
+When you have installed the environment and downloaded the data. You need to change the data path of the conigs files. Then you can run the code.
+
+```bash
+python space_carving.py --conf confs/nhr_sp.conf --scan_id 1
+python ncc_optim.py --conf confs/nhr_ncc.conf --scan_id 1
+python sfs_optim.py --conf confs/nhr_sfs.conf --scan_id 1
+```
+
+space_carving.py generates the initial mesh. ncc_optim.py employs multi-view patch-based photometric optimization. sfs_optim.py applies shape from shading refinement.
 
 
 # Reconstruction Results of [NHR dataset](https://wuminye.github.io/NHR/)

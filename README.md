@@ -3,14 +3,36 @@
 https://user-images.githubusercontent.com/25956606/203796037-a64faa77-a84b-497c-b2d3-9f65a748abfc.mp4
 
 
-# Requirements
-[pytorch](https://pytorch.org/)
+# Installation
 
-[nvdiffrast](https://github.com/NVlabs/nvdiffrast)
+clone the repository
+```bash
+git clone https://github.com/l1346792580123/FastHuman.git
+cd FastHuman
+```
+Step 1: requirements:
+```bash
+pip install -r requirements.txt
+```
 
-[NHR data](https://wuminye.github.io/NHR/datasets.html)
+Step 2: install PyTorch (The PyTorch version should be higher than 1.7.1.):
 
-[DTU data](https://hkustconnect-my.sharepoint.com/:u:/g/personal/jzhangbs_connect_ust_hk/EazyGuwPC5tIkbI3fgeERgEBBUXBV16_hIkud_dhS34wVw?e=CWjJGP)
+```bash
+pip install torch==1.7.1+cu110 torchvision==0.8.2+cu110 torchaudio==0.7.2 -f https://download.pytorch.org/whl/torch_stable.html
+```
+
+Step 3: install nvdiffrast
+```bash
+git clone https://github.com/NVlabs/nvdiffrast
+cd nvdiffrast
+pip install .
+```
+
+## Data Preparation
+
+You can download NHR data and DTU data from NHR(https://wuminye.github.io/NHR/datasets.html) and DTU(https://hkustconnect-my.sharepoint.com/:u:/g/personal/jzhangbs_connect_ust_hk/EazyGuwPC5tIkbI3fgeERgEBBUXBV16_hIkud_dhS34wVw?e=CWjJGP) respectively.
+
+
 
 # Reconstruction Results of [NHR dataset](https://wuminye.github.io/NHR/)
 

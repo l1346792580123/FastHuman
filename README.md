@@ -1,7 +1,7 @@
 # [FastHuman: Reconstructing High-Quality Clothed Human in Minutes](https://arxiv.org/abs/2211.14485)
 
-# Framework
-![framework](https://github.com/l1346792580123/PatchShading/blob/main/fig/overview.png)
+https://user-images.githubusercontent.com/25956606/203796037-a64faa77-a84b-497c-b2d3-9f65a748abfc.mp4
+
 
 # Requirements
 [pytorch](https://pytorch.org/)
@@ -30,14 +30,6 @@ https://user-images.githubusercontent.com/25956606/203796001-7b143df8-02ea-47a4-
 https://user-images.githubusercontent.com/25956606/203796021-b0a99641-df83-4fef-ab84-3ef259ff4052.mp4
 
 
-
-
-# Reconstruction Results of in the wild video
-
-
-
-
-https://user-images.githubusercontent.com/25956606/203796037-a64faa77-a84b-497c-b2d3-9f65a748abfc.mp4
 
 
 ## Citation
